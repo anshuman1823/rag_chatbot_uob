@@ -1,6 +1,6 @@
-RAG Pipeline with Azure OpenAI and FAISS
+LLM based chatbot with RAG Pipeline using Azure OpenAI
 
-This project implements a Retrieval-Augmented Generation (RAG) pipeline using Azure OpenAI, FAISS, and LangChain to answer user queries based on relevant documents from a vector database.
+This project implements a Retrieval-Augmented Generation (RAG) pipeline using Azure OpenAI (LLM and text embeddings deployment), FAISS, and LangChain to answer user queries based on relevant documents from a vector database.
 
 🚀 Features
 
